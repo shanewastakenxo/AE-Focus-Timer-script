@@ -6,11 +6,7 @@ I made it because I kept losing track of how long I had been editing, forgetting
 
 ## Preview
 
-Add a screenshot of the panel here after uploading the project to GitHub:
-
-```markdown
-<img width="445" height="602" alt="Screenshot 2026-07-16 035645" src="https://github.com/user-attachments/assets/0a723a67-8167-47f6-92cb-db6d1e1eeda6" />
-```
+<img width="445" height="602" alt="Screenshot 2026-07-16 035645" src="https://github.com/user-attachments/assets/6d98adf7-f6c2-4ff9-96a8-30679a3488a5" />
 
 ## Features
 
