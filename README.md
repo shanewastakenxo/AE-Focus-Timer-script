@@ -9,7 +9,7 @@ I made it because I kept losing track of how long I had been editing, forgetting
 Add a screenshot of the panel here after uploading the project to GitHub:
 
 ```markdown
-![AE Focus Timer preview](screenshots/AEFocusTimer-preview.png)
+<img width="445" height="602" alt="Screenshot 2026-07-16 035645" src="https://github.com/user-attachments/assets/0a723a67-8167-47f6-92cb-db6d1e1eeda6" />
 ```
 
 ## Features
@@ -90,6 +90,7 @@ Window → AEFocusTimer.jsx
 ```
 
 7. Drag the panel tab into your preferred After Effects workspace to dock it.
+<img width="1505" height="964" alt="Screenshot 2026-07-16 035423" src="https://github.com/user-attachments/assets/b3cdafc4-8e50-4b5f-9390-9068c4b9a127" />
 
 ### macOS
 
