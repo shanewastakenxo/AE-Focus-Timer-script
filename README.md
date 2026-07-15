@@ -193,3 +193,5 @@ ae-focus-timer/
 This started as a simple tool for my own editing workflow. I wanted something that could remind me to save, show how long I had spent on a project, and give me a deadline when I needed to stop overthinking an edit.
 
 It is intentionally small and focused rather than trying to become a full project management system.
+
+Tested on AE version 2021 but should work for all versions, not tested for Mac :(
